@@ -2,7 +2,7 @@
 
 I'm Katharina, a Computer Science student based in Germany 🇩🇪.
 
-I focus on **Embedded Systems** and **Cyber Security** — with a special passion for securing hardware and low-level systems.
+I focus on **Embedded Systems** and **Cyber Security** (and especially Cyber Security in Embedded Systems).
 
 In my free time, I build open-source projects in these areas.
 
