@@ -1,14 +1,19 @@
 ## Hi there 👋
 
-I'm Katharina, a Computer Science student based in Germany 🇩🇪.
+I'm Katharina, a Computer Science student based in Germany, studying at RWTH Aachen University.
 
 I focus on **Embedded Systems** and **Cyber Security** (and especially Cyber Security in Embedded Systems).
 
 In my free time, I build open-source projects in these areas.
 
+<!-- My favourite project is [...] -->
+
+<!-- Git Badge stats? -->
+
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python, Java, C++, Javascript
-* **Topics:** Embedded Systems, Firmware, Cryptography, Network Security
+* **Languages:** Python, Java, C++, JavaScript
+* **Tools:** Git, Docker
+* **Topics:** Embedded Systems, Firmware, Cryptography, Network Security, Reverse Engineering
 
 ### 📫 Connect with me
 You can reach out via my [LinkedIn Account](https://www.linkedin.com/in/katharina-ludwig-446474253/).
