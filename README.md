@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+I'm Katharina, a Computer Science student based in Germany 🇩🇪.
+
+I focus on **Embedded Systems** and **Cyber Security** — with a special passion for securing hardware and low-level systems.
+
+In my free time, I build open-source projects in these areas.
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, Java, C++, Javascript
+* **Topics:** Embedded Systems, Firmware, Cryptography, Network Security
+
+### 📫 Connect with me
+You can reach out via my [LinkedIn Account](https://www.linkedin.com/in/katharina-ludwig-446474253/).
+
 <!--
 **katharina-ludwig-02/katharina-ludwig-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
